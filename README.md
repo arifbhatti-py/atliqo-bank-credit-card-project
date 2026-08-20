@@ -100,14 +100,14 @@ Since the p-value is below 0.05 and the Z-statistic exceeds the critical Z-value
 
 ## Tools & Libraries Used
 
-- **Python** – Core programming language
-- **Pandas** – Data cleaning, transformation, and analysis
-- **NumPy** – Numerical computations
-- **Matplotlib** – Data visualization
-- **Seaborn** – Statistical data visualization
-- **SciPy** – Statistical analysis and hypothesis testing
-- **Statsmodels** – A/B testing and statistical inference
-- **Jupyter Notebook** – Interactive analysis and documentation
+- **Python**
+- **Pandas**
+- **NumPy**
+- **Matplotlib**
+- **Seaborn**
+- **SciPy**
+- **Statsmodels**
+- **Jupyter Notebook**
 
 
 ## Acknowledgements
