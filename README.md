@@ -118,7 +118,6 @@ This project was completed as part of the Codebasics Data Science Bootcamp. The 
 
 **Muhammad Arif Bhatti**
 
-This project was developed as part of my Data Science learning journey.
 
 - GitHub: https://github.com/arifbhatti-py
 - LinkedIn: https://linkedin.com/in/arifbhatti
