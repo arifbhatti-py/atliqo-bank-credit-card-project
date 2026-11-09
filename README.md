@@ -110,14 +110,10 @@ Since the p-value is below 0.05 and the Z-statistic exceeds the critical Z-value
 - **Jupyter Notebook**
 
 
-## Acknowledgements
-
-This project was completed as part of the Codebasics Data Science Bootcamp. The datasets used in this project were provided by Codebasics for educational purposes and are not included in this repository due to distribution restrictions.
 
 ## Author
 
 **Muhammad Arif Bhatti**
 
-
-- GitHub: https://github.com/arifbhatti-py
-- LinkedIn: https://linkedin.com/in/arifbhatti
+- GitHub: [arifbhatti-py](https://github.com/arifbhatti-py)
+- LinkedIn: [Muhammad Arif Bhatti](https://linkedin.com/in/arifbhatti)
